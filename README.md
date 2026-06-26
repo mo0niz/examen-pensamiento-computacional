@@ -299,3 +299,10 @@ Finalmente, permitió entender cómo la programación puede utilizarse como una 
 ## 📊 Diagrama de Flujo
 
 [👉 Haz clic aquí para ver o descargar el Diagrama de Flujo (PDF)](examen%20pensamiento/diagrama%20de%20fluje.pdf)
+
+
+## P5JS
+
+(https://editor.p5js.org/isidora.munoz9/full/LbaF4a2Bl)
+
+https://editor.p5js.org/isidora.munoz9/sketches/LbaF4a2Bl
