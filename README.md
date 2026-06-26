@@ -274,13 +274,28 @@ También reforzó el uso de variables, condicionales, bucles, funciones propias 
 
 Finalmente, permitió entender cómo la programación puede utilizarse como una herramienta de diseño para crear experiencias visuales donde el usuario participa activamente en la construcción de la obra.
 ## Imagenes
-![Captura del proyecto 1](examen pensamiento/IMG_5484.jpg)
-![Captura del proyecto 2](examen pensamiento/IMG_5485.jpg)
-![Captura del proyecto 3](examen pensamiento/IMG_5486.jpg)
-![Captura del proyecto 4](examen pensamiento/IMG_5490.jpg)
-![Captura del proyecto 5](examen pensamiento/IMG_5492.jpg)
-![Captura del proyecto 6](examen pensamiento/IMG_5493.jpg)
-![Captura del proyecto 7](examen pensamiento/IMG_5494.jpg)
-![Captura del proyecto 8](examen pensamiento/IMG_5496.jpg)
-![Captura del proyecto 9](examen pensamiento/IMG_5497.jpg)
-![Captura del proyecto 10](examen pensamiento/IMG_5499.jpg)
+![Captura del proyecto 1](examen%20pensamiento/IMG_5484.jpg)
+
+![Captura del proyecto 2](examen%20pensamiento/IMG_5485.jpg)
+
+![Captura del proyecto 3](examen%20pensamiento/IMG_5486.jpg)
+
+![Captura del proyecto 4](examen%20pensamiento/IMG_5490.jpg)
+
+![Captura del proyecto 5](examen%20pensamiento/IMG_5492.jpg)
+
+![Captura del proyecto 6](examen%20pensamiento/IMG_5493.jpg)
+
+![Captura del proyecto 7](examen%20pensamiento/IMG_5494.jpg)
+
+![Captura del proyecto 8](examen%20pensamiento/IMG_5496.jpg)
+
+![Captura del proyecto 9](examen%20pensamiento/IMG_5497.jpg)
+
+![Captura del proyecto 10](examen%20pensamiento/IMG_5499.jpg)
+
+---
+
+## 📊 Diagrama de Flujo
+
+[👉 Haz clic aquí para ver o descargar el Diagrama de Flujo (PDF)](examen%20pensamiento/diagrama%20de%20fluje.pdf)
